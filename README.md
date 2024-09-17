@@ -1,7 +1,7 @@
 # FinanceManagementApplication
 A command-line application that helps users manage their personal finances by tracking income, expenses, and generating financial reports.
 
-# Please Before Going Through the pdf read 'ABOUTME-MUSTREADBEFORESTARTING'.txt file.
+## Please Before Going Through the pdf read 'ABOUTME-MUSTREADBEFORESTARTING'.txt file.
 It contains all the details from beginning of the Project.
 
 # Use Case Test files have been also added for checking the key functionalities.
